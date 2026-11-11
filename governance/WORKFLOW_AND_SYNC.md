@@ -11,6 +11,7 @@ Read, in this order, the GitHub **main** files:
 5. state/DECISION_LOG.md
 6. state/OPEN_QUESTIONS.md
 7. state/EXPERIMENT_AND_HANDOFF_INDEX.md
+8. governance/ALGORITHM_EXPLORATION_POLICY.md
 
 Then, for local execution, read the **local WSL Git repository** files `AGENTS.md`, `docs/SCIENTIFIC_CONTRACT.md`, `docs/EVALUATION_PROTOCOL.md`, `docs/DATA_AUDIT_PROTOCOL.md`, `state/PROJECT_STATE.md`, experimental preregistrations and task-specific instructions. Compare snapshot timestamps and commit IDs; **prefer newer direct local evidence over an older public mirror**, without rewriting historical decisions.
 
