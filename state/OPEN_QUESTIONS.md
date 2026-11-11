@@ -53,3 +53,15 @@ The student's personal scVI project is not part of this task board and must neve
 6. **T2 independent GT:** MERFISH imaging biological-replicate ↔ bulk culture linkage, raw marker-positive numerators/denominators and panel thresholds remain unverified. R02 prior SOURCE_STOP is respected until genuinely new source evidence appears. Prospectively matched t0 bulk→t1 CFU remains unavailable in scope.
 
 **Always report both the physical goal ('new bulk → intermediate population property') and the validation tier.** C23 is internal only; C24 is synthetic only; C25 is engineering only. Retired C10 must not be resurrected.
+
+
+## HQ014 prioritized execution
+
+1. **I11 source/project restore:** ingest nine handoff ZIP sources; verify actual Git ancestry (C23 prereg vs prediction freeze vs scoring), stage R01-B05 6 P IDs and R03-B05 17 static records with schema validation, local bundle clone+fsck, public redacted-only summary.
+2. **C26 MATQ true model control:** confirm true simplex QP and train-sc mean/shrinkage/wrong gene namespace baselines against C23; test whether sc contributes beyond assay mapping. Score entire heldout OD sc only after predictions frozen; no independent culture claims.
+3. **C27 selective uncertainty:** withhold actual predictions for OOD, analyze unique test CULTURES, train p/q label missingness/noisy selection regimes and wrong-reference failures; calibrate or ABSTAIN, do not hide insufficient independent calibration sample.
+4. **C28 immutable RPO provenance:** forged reference_condition, query_condition, BioSample and culture_id must **not** be published as verified source; bind to official fixed metadata and keep culture UNKNOWN; rerun actual local processed source and frozen model; preserve no-reference ABSTAIN.
+5. **C29 conditional individual-sc generative method pilot:** train small K=2 per-cell distribution reference from MATQ train individual read-count cells, predict heldout *technical* marker detection under bulk RNA-weighted operator, benchmark vs prior-only; no scVI dependency and no heavy architecture search. Only after C26 source and permission preflight.
+6. **R02-B11 actual physical marker test design:** matched independent culture new bulk and 2-marker imaging, positive/total count, probe negative, blinded culture holdout; public MERFISH join only if actual new evidence available. Otherwise STOP and provide collaboration-ready protocol.
+
+Continue independent M0–M3 research, but distinguish technically correct bulk-sc aggregate, identifiable bound, and true culture-validated heterogeneity. User's personal scVI learning is not a project gate.
