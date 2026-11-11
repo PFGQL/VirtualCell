@@ -55,3 +55,14 @@ See `state/OPEN_QUESTIONS.md` and `governance/WORKFLOW_AND_SYNC.md` for next wor
 - **R04-G02**: source/negative-control audit agrees C16 numeric QC NOT PASS and C17 a provisional engineering result. No culture-independent GT or t0 bulk to future CFU chain established.
 
 **Gates as of HQ011: G1 BLOCKED (with provisional reference-relative external engineering result), G2 INTERNAL ONLY, G3 BLOCKED, G4 BLOCKED, R2 single new bulk without validated reference ABSTAIN. C10 / novel VAE / Bulk Projector / prospective phenotype model still NOT AUTHORIZED.**
+
+
+## HQ012 active correction — 2026-11-11
+
+**Scientific governance change:** C10 retired/superseded; earlier blanket language forbidding all VAE/Bulk Projector research is **overruled**. Method family M3 (sc-reference latent population generator + bulk-conditioned inference/projector) is **ACTIVE IN RESEARCH**, alongside program-constrained M2, reference-mixture/partial identification M1 and bulk-only M0, without privileging scVI or E+A+D. All AI teams must continue this research independently of the student's personal scVI training. Permitted: source audit, identifiability theory, preregistered synthetic comparisons, bounded internal real-data pilots. Not permitted: unreviewed selection or full model training; claims of GT-backed recovery. Read `governance/ALGORITHM_EXPLORATION_POLICY.md`.
+
+**HQ012 new verified handoff scope:** I08 (13/13 SHA; local bundle restored by Codex); C18 (21/21; reproduced C17 201×4 CSV identical SHA, but published-A mismatch OPEN, G1 BLOCKED); C19 (16/16; synthetic parser negative/overflow fixed, real PETRI fragment `UNEXPLAINED_REAL_SCHEMA`, Phase B NOT RUN); C20 (15/15; four estimand design contracts only, no method-family contest executed); R02-B10 (10/10; original PETRI Table4/MG1655 S1/S2/S10 still not obtained; collaborator GT template only, NOT SENT). Source ZIP CRC all PASS; these are reported-file audits, not independent on-disk WSL reruns.
+
+**Codex-reported latest local HEAD:** `e9835122b1aa6de88081f0bf60730dc03c0fe35b`. Local final bundle SHA256 `78a13ce27582a79f4f2df3ad32a1dd7d9a0babe2788400be21c94bb0219f80be`; tested locally, off-device recovery UNKNOWN. Remote public repo remains a curated independent-historical memory mirror.
+
+**Gates unchanged**: G1 reference-relative real-new-bulk engineering still provisional, G2 INTERNAL, G3 independent-state GT BLOCKED, G4 prospective GT BLOCKED, R2 ABSTAIN. Gate status does not stop hypothesis testing. Next parallel programs: R01/R03 focused methodology/prior-art comparison, Codex bounded synthetic inverse-problem competition and scientific-output/data compatibility, plus small PETRI schema forensics only if warranted.
