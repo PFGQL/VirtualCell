@@ -23,4 +23,4 @@ Input new bacterial bulk RNA-seq; investigate a rigorously defined, testable int
 
 Public main is an allowlisted mirror with independent Git history. Do not force-push unrelated local master, publish raw matrices, full Git bundles, credentials, private background, or unreviewed historical commits. Update only redacted scientific summaries after local Codex handoff and HQ approval. Always re-fetch after writing.
 
-Current HQ010 status: external T0 reference BLOCKED; independent cell-state GT BLOCKED; prospective response BLOCKED; C10/novel VAE/Bulk Projector NOT AUTHORIZED.
+HQ012 supersedes earlier HQ010 model restriction: external T0 reference BLOCKED; independent cell-state GT BLOCKED; prospective response BLOCKED. **C10 RETIRED; open algorithm research, theoretical tests and bounded preregistered synthetic/limited internal pilots are ACTIVE**, including bulk projection and latent generative alternatives. Do not select scVI a priori or wait for the student's independent scVI study; no unsupervised production model build. Read `governance/ALGORITHM_EXPLORATION_POLICY.md`.
