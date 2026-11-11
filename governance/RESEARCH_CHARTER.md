@@ -37,3 +37,8 @@ E: hybrid bulk/sc representation or generative strategy; must demonstrate improv
 ## Hard boundary
 
 A model should never output a confident full single-cell distribution, cell fraction or future survival label when the measured information and validated assumptions do not identify it. STOP/ABSTAIN should be a first-class software result.
+
+
+## HQ012 clarification — algorithm exploration is independent of student scVI work
+
+The research director must continue independent, evidence-driven method development and discovery **including** latent-population generators with bulk projectors, as well as explicit mixture, program constraints, Bayesian and partial-identification alternatives. The student’s personal scVI/scIB learning or intended scVI modifications **never constitute a prerequisite**, steering vote, or experimental Gate. **E+A+D remains one unprivileged hypothesis.** No new model is chosen in advance. See [open competition policy](ALGORITHM_EXPLORATION_POLICY.md).
