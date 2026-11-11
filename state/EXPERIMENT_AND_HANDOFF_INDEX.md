@@ -39,3 +39,18 @@ Reported working HEAD after C15: `6dd0cd1`; the I06 bundle only contains history
 | R04-G02 | 9/9; source/negative synthetic audit of C16/C17 | Static/programmatic audit; no source TAR or raw-expression rerun |
 
 Codex-reported final WSL HEAD: `ed9e342b6376f90502c42971ab07421ba6776693`. Codex-reported newer bundle SHA256 `ccea855cdfc58b5a152600e776fc8b05d71dfd4245056639232caf70c22f2f55`; HQ has not read these local Git objects through GitHub. Independent full source-matrix recalculation remains out of scope.
+
+
+## HQ012 evidence audit (2026-11-11)
+
+These are uploaded-source integrity checks, not an independent rerun of original expression matrices. ZIP CRCs PASS; I08 13/13, C18 21/21, C19 16/16, C20 15/15 and R02-B10 10/10 manifest member SHA checks PASS.
+
+| ID | What was actually done | Outcome / claim limit |
+|---|---|---|
+| I08 | Read public HQ011 mirror and restored local Git bundle by clone/fsck | Private local reproducibility; off-device restore NOT VERIFIED |
+| C18 | Reconstructed C17 frozen PRECISE 201×4 reference-relative module activities | Same SHA, numerical replay PASS; published-A inference semantics and external calibration remain UNKNOWN |
+| C19 | Fixed negative/overflow synthetic count parsing | Real PETRI SB346 micro fragment failed unexplained schema; Phase B NOT RUN; no numeric PETRI sc QC |
+| C20 | Four candidate output estimands with baselines and experiment designs | DESIGN_ONLY; had **not** competitively implemented M0/M1/M2/M3 algorithm families |
+| R02-B10 | Read C17 alias crosswalk 586 rows, attempted PETRI Table4 and MG1655 S1/S2/S10 original supplements | PARTIAL / SOURCE_STOP, no L2 GT or prospective t0 bulk→t1 CFU chain |
+
+**HQ012** retired the original C10 implementation task and authorized independent methodology review and bounded synthetic algorithm competition, including latent-population generation + bulk projection approaches, entirely independent of the student's own scVI work. See `governance/ALGORITHM_EXPLORATION_POLICY.md`. Codex-reported latest local working HEAD `e9835122b1aa6de88081f0bf60730dc03c0fe35b`; original WSL Git history is not on public GitHub.
