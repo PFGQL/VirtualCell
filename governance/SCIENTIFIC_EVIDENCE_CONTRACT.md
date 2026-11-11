@@ -31,7 +31,7 @@ These are a public shorthand; the canonical local docs/SCIENTIFIC_CONTRACT.md, E
 3. Lock prior-art and same-information baselines: bulk-only T0, simple reference/NNLS, assay-offset calibration, applicable published algorithms and shuffled-sc controls.
 4. Require a calibration and dataset-shift/OOD policy. A single novel bulk profile without a valid reference anchor must ABSTAIN.
 5. Record data lineage, hashes, reproducible commands, failures, negatives and Git commits. A source verification or static code inspection is not a rerun of raw expressions.
-6. **No automatic C10/novel VAE/Bulk Projector training** while the scientific target, labels and gate are unapproved.
+6. **Original C10 is RETIRED (HQ012).** Method literature audits, mathematically controlled simulation and small preregistered exploratory experiments across bulk-only, reference-constrained, program and bulk-to-latent generative methods are **actively authorized**, independent of the student's scVI study. Production-scale/final algorithm training requires separate scoped approval; lack of L2 GT limits scientific claims, not method exploration. See `governance/ALGORITHM_EXPLORATION_POLICY.md`.
 7. Avoid overstating training/pseudo-bulk gains as independent biology.
 
 ## Current status (HQ010)
