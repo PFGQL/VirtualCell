@@ -29,3 +29,7 @@ HQ012 supersedes earlier HQ010 model restriction: external T0 reference BLOCKED;
 ## HQ013 scientific execution instruction
 
 Read the **HQ013 addendum** in `state/PROJECT_STATE.md` and [Issue #4](https://github.com/PFGQL/VirtualCell/issues/4). The current research must advance **both** real bacterial data (MATQ same-study internal only) **and** corrected equal-information theoretical/synthetic M0–M3 comparisons; the frozen PRECISE real-bulk baseline is engineering-only. Do not treat `NO_VERIFIED_CULTURE_GT` as a blanket prohibition on exploratory algorithms. Do not claim synthetic rankings, internal sc detection rates or reference-relative module scores demonstrate a new cell population has been recovered. C10 remains retired; no implicit dependency on the student's personal scVI work.
+
+
+## HQ014 mandatory decision update
+Read HQ014 addendum in state/PROJECT_STATE.md and [issue #5](https://github.com/PFGQL/VirtualCell/issues/5). C10 retired, scVI student studies not a research dependency. Authorized C26 stronger real MATQ nulls (technical target), C27 actual selective synthetic ABSTAIN and sparse labels, C28 trusted RPO source metadata and full local replay, conditional C29 genuinely individual-sc reference generative micro-pilot, and collaborator-ready physical marker GT design. Do not announce a method winner, recovered cells, validated cell proportions or prospective phenotype from those internal/synthetic/engineering records.
