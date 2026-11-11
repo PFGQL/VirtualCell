@@ -54,3 +54,17 @@ These are uploaded-source integrity checks, not an independent rerun of original
 | R02-B10 | Read C17 alias crosswalk 586 rows, attempted PETRI Table4 and MG1655 S1/S2/S10 original supplements | PARTIAL / SOURCE_STOP, no L2 GT or prospective t0 bulk→t1 CFU chain |
 
 **HQ012** retired the original C10 implementation task and authorized independent methodology review and bounded synthetic algorithm competition, including latent-population generation + bulk projection approaches, entirely independent of the student's own scVI work. See `governance/ALGORITHM_EXPLORATION_POLICY.md`. Codex-reported latest local working HEAD `e9835122b1aa6de88081f0bf60730dc03c0fe35b`; original WSL Git history is not on public GitHub.
+
+
+## HQ013 source/replay supplement (2026-11-11)
+
+| ID | Audited source and real scope | Scientific interpretation |
+|---|---|---|
+| I09 | user-uploaded handoff 16/16 manifest hashes | Governance: C10 retired, research M3 active, user scVI independent |
+| C21 | uploaded handoff 10/10 manifest; **HQ re-executed 72/72** rows max numeric difference `4.44e-16` | SYNTHETIC_ONLY; W0 nonidentifiability proven for witness; oracle/unequal data rights; no ranking/95% calibration |
+| C22 | uploaded handoff 11/11 manifest; 128 rows/8 unit crosswalks/5 candidate experiments | AUDIT_ONLY; no matrices read or real models evaluated |
+| R01-B04 | 5/5 file SHA; 19 P IDs P0048–P0066 (21 columns vs 20 in catalog) | static primary-source research; 66 entries after safe merge, not systematic exhaustive |
+| R03-B04 | 6/6 file SHA; 23 static method records | not 23 new installed code repos; licenses/edge requirements may be unresolved |
+| R04-H02 | 12/12 file SHA; R04 re-executed C21 72 rows and posthoc RBF | source audit pass; no real expression GT |
+
+Reported WSL HEAD after I09/C21/C22: `147c6796c46ae7112a70d5d48736b0180be20073`. Local bundle only same-disk tested. Public mirror has distinct history and no raw matrices.
