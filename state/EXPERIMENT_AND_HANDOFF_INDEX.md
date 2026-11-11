@@ -26,3 +26,16 @@
 - `R02_batch08_evidence_package(1).zip`: archived source files and SHA256 manifest checked; R02 is separate public-evidence analysis, not an original count matrix rerun.
 
 Reported working HEAD after C15: `6dd0cd1`; the I06 bundle only contains history through `31f7c6c`. When updating this document, also record the latest verified working SHA and the most recent off-device backup verification. **Never upload the local backup bundle or original handoff ZIPs to this public repository without separate publication review.**
+
+
+## HQ011 source-index supplement (2026-11-11)
+
+| ID | Verified handoff content | Scope of validation |
+|---|---|---|
+| I07 | 16/16 handoff members; local bundle through `789b21d` test-cloned and fsck passed by Codex | Not off-device, not a remote mirror of WSL Git |
+| C16 | 15/15; first SB346 row failed parser; no SB345 numeric read, no QC | R04 independently identified synthetic negative count acceptance in final parser |
+| C17 | 27/27; real processed PRECISE-MG1655 v1 reference-relative RPO projection on frozen PRECISE-1K 201 modules; 586 vs 584 mismatch; 4168 model genes shared | Provisional engineering, NOT independent cell-state or biological validation |
+| R02-B09 | 8/8; PETRI shared source and MG1655 primary metadata audit | Original PETRI Table4 and MG1655 S1/S2/S10 row-level supplements still unavailable in R02 packet |
+| R04-G02 | 9/9; source/negative synthetic audit of C16/C17 | Static/programmatic audit; no source TAR or raw-expression rerun |
+
+Codex-reported final WSL HEAD: `ed9e342b6376f90502c42971ab07421ba6776693`. Codex-reported newer bundle SHA256 `ccea855cdfc58b5a152600e776fc8b05d71dfd4245056639232caf70c22f2f55`; HQ has not read these local Git objects through GitHub. Independent full source-matrix recalculation remains out of scope.
