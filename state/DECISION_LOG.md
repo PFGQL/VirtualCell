@@ -19,3 +19,8 @@ This is an append-only-style **public summary**, not a verbatim copy of confiden
 | **HQ010-D02** | Existing L2/G4 evidence still incomplete | C10/novel VAE and prospective outcome training remain NOT AUTHORIZED |
 
 **All decisions are revisable with direct sources and documented negative evidence.** Never silently turn UNKNOWN culture/aliquot into biological repeat or turn published claims into remeasured results.
+
+| **HQ011-D01** | I07 recovered an in-scope local Git bundle by clone/fsck; full public history remains unsuitable for direct publication, and off-device private recovery unverified | Continue curated public memory only; record per-HQ remote readback |
+| **HQ011-D02** | C16 first real sc row failed; R04 reproduced acceptance of synthetic negative counts | Require token-level real fixture, strict nonnegative parsing, overflow tests, truthful task status and checkpoints before any new bounded full PETRI stream |
+| **HQ011-D03** | C17 computed frozen 201-module reference-relative RPO activities on real external processed bulk (4 samples) with 4168 gene overlap; 586/584 discrepancy, incomplete alias and published-A inconsistency remain | Record `PROVISIONAL_EXTERNAL_ENGINEERING`; G1 BLOCKED; approve isolated C18 numerical/coordinate validation, not a cell-state prediction claim |
+| **HQ011-D04** | R02-B09 still lacks PETRI Table 4 physical rows and full MG1655 supplementary crosswalk | No automatic R02 broad search; use official source files only, keep culture/aliquot and reference fields UNKNOWN |
