@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-11 (HQ-012).  
+**Memory snapshot:** 2026-11-11 (HQ-013).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -19,7 +19,7 @@ Immediate goal: a scientifically credible, reproducible **undergraduate thesis d
 5. [Experiment and handoff index](state/EXPERIMENT_AND_HANDOFF_INDEX.md).
 6. [Workflows and publication policy](governance/WORKFLOW_AND_SYNC.md).
 
-**Do not commit to E+A+D just because a model can be trained. C10 was retired in HQ012. Actively research all algorithm families, including latent sc-reference generators with bulk projection, and conduct bounded, preregistered synthetic/internal comparisons independently of the student's personal scVI study.** Maintain source provenance and explicitly distinguish file-hash audit, static code review, local execution, cross-study prediction and independent biological validation.
+**Do not commit to E+A+D just because a model can be trained. C10 was retired in HQ012. HQ013 confirms no algorithm winner and authorizes bounded real internal MATQ, corrected synthetic contest and honest reference-aware bulk demo. Actively research all algorithm families, including latent sc-reference generators with bulk projection, and conduct bounded, preregistered synthetic/internal comparisons independently of the student's personal scVI study.** Maintain source provenance and explicitly distinguish file-hash audit, static code review, local execution, cross-study prediction and independent biological validation.
 
 ## Evidence status
 
@@ -37,3 +37,5 @@ Only curated Markdown and minimal metadata are intended to be public. Never publ
 **Public mirror snapshot is not a disaster-recovery Git backup.** The local full-history bundle reported in I06 covers only the I06-era commit and is not a verified off-device backup. A local Codex agent must not push the full local history here without a distinct historical/privacy review.
 
 [Scientific and workflow entry point](governance/WORKFLOW_AND_SYNC.md).
+
+**Current task tracker:** [HQ013 issue #4](https://github.com/PFGQL/VirtualCell/issues/4), [HQ013 public scientific state](state/PROJECT_STATE.md).
