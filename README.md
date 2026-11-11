@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-11 (HQ-010).  
+**Memory snapshot:** 2026-11-11 (HQ-012).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -19,7 +19,7 @@ Immediate goal: a scientifically credible, reproducible **undergraduate thesis d
 5. [Experiment and handoff index](state/EXPERIMENT_AND_HANDOFF_INDEX.md).
 6. [Workflows and publication policy](governance/WORKFLOW_AND_SYNC.md).
 
-**Do not start experiments or commit to E+A+D just because a model can be trained.** Maintain source provenance and explicitly distinguish file-hash audit, static code review, local execution, cross-study prediction and independent biological validation.
+**Do not commit to E+A+D just because a model can be trained. C10 was retired in HQ012. Actively research all algorithm families, including latent sc-reference generators with bulk projection, and conduct bounded, preregistered synthetic/internal comparisons independently of the student's personal scVI study.** Maintain source provenance and explicitly distinguish file-hash audit, static code review, local execution, cross-study prediction and independent biological validation.
 
 ## Evidence status
 
@@ -27,7 +27,7 @@ Immediate goal: a scientifically credible, reproducible **undergraduate thesis d
 - MATQ/BacDrop/M3/RiboD/PETRI/MERFISH and other public resources investigated; no verified independent culture-level bulk-to-cell-state or pre-treatment-bulk-to-future-CFU ground-truth chain in scope.
 - Frozen PRECISE-1K bulk-only program projection is an engineering baseline, **not original cell-state inference**.
 - C14 PETRI numerical QC **not completed** after a parse/checkpoint failure; C15 PRECISE-MG1655 external test/reference pair **not obtained**.
-- Research gates: new external bulk calibration BLOCKED; independent state GT BLOCKED; prospective D BLOCKED; C10 / new bulk projector / heavy VAE NOT AUTHORIZED.
+- Research gates: new external bulk calibration BLOCKED; independent state GT BLOCKED; prospective D BLOCKED; Original C10 RETIRED; open algorithm research (including bulk projector/latent generator) ACTIVE, but no unilateral choice or unscoped large-model training.
 - Public memory mirror does not automatically update when the local Git repository changes.
 
 ## Publication and synchronization
