@@ -30,3 +30,14 @@ The tasks below are candidate HQ010 successor jobs; do not mistake a written pla
 4. **PETRI physical mapping.** Table 4 original XLSX still absent; shared source cells != independent culture heldout. Do not infer missing GSM identities or technical replicates.
 5. **MG1655 data release reconciliation.** Verify why v1 has 586 columns/436 `pxk` versus article 584/434, whether 6 SDT122 are excluded, and which two columns/quality rules account for the difference. No automatic statement that 436 columns are all independently eligible test samples.
 6. **Independent middle-layer biological target and prospective D.** Still no culture-level marker/operon ground truth or t0 bulk→matched future phenotype. Do not upgrade G3/G4 through T0 engineering.
+
+
+## HQ012 new priority: independent algorithm competition (not a GT waitlist)
+
+1. **R01/R03 methodology audit now:** enumerate algorithms spanning explicit mixture/partial-identification, bulk/sc latent generator + bulk projector (scVI-like only one of several possible backbones), program constraints and conditional prediction. Verify input/output, trained-data permissions, prior art, biological relevance and reproducible baselines. Do not defer to student's scVI work.
+2. **C21 bounded synthetic inverse benchmark now:** construct explicit two-world equal-bulk/different-cell-population counterexample plus controlled RNA weights, assay effects, missing states and unseen conditions. Compare M0 bulk-only, M1 constrained reference mixtures, M2 program-structured projection, simplified M3 amortized/latent population inference (if resource contract allows). Report calibration, abstentions and prior sensitivity without implying real-cell recovery.
+3. **C22 real-data alignment audit:** for available MATQ/RiboD/MERFISH/PETRI, map gene IDs, count units, biological cultures and assay panels; propose task-specific internal diagnostic and external validations. An input sample or sc reference trained only in the same study is not independent culture GT.
+4. **C19 format blocker remains:** if revisited, use tiny real token/schema forensic tool preserving hashes and row structure before any new full stream; do not guess PETRI grammar or consume repeated decompression automatically.
+5. **Demo objective OPEN:** beyond stable T0, choose a supported intermediate-resolution output by value, identifiability, actual reference data, original-method boundaries and uncertainty; a validated research output is not guaranteed from existing public GT.
+
+The student's personal scVI project is not part of this task board and must never become a hidden gate.
