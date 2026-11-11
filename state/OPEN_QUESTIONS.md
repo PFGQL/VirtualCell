@@ -41,3 +41,15 @@ The tasks below are candidate HQ010 successor jobs; do not mistake a written pla
 5. **Demo objective OPEN:** beyond stable T0, choose a supported intermediate-resolution output by value, identifiability, actual reference data, original-method boundaries and uncertainty; a validated research output is not guaranteed from existing public GT.
 
 The student's personal scVI project is not part of this task board and must never become a hidden gate.
+
+
+## HQ013 immediate evidence-driven tasks
+
+1. **I10:** Stage R01 19 new P IDs and R03 23 static method records without corrupting catalog schema; ingest and hash all six source ZIPs; update experiment registry and local/public memory delta, validate current Git bundle; do not push full WSL history.
+2. **C23 REAL INTERNAL MATQ:** using already present verified GSE218631/632 processed read-count sc and bulk files, preregister a 4-OD leave-one-OD-out contest on **sc-assay aggregate expression and tightly labeled detection proxies only**. Compare identity, train-only assay offset, fair train-sc-informed bulk-only/NNLS/low-dimensional latent alternatives, condition permutation and prior ablations. Score heldout OD sc only after predictions frozen. No cell fraction/orthogonal GT claim. Run only after unit, gene-ID and split leakage preflight. No new downloads.
+3. **C24 SYNTHETIC FAIRNESS:** rerun C21 with equal train-label information permissions; estimate noise/r from permitted train data or report explicit unmeasured-r ranges; use nested train-only hyperparameter tuning and stronger bulk-only; expose oracle runs in a separate sanity appendix. Pre-register coverage/width, OOD/ABSTAIN, prior sensitivity; test equal-mean adversaries and missing-state/assay shifts.
+4. **C25 DEMO real reference:** package a frozen PRECISE-1K 201-module RPO reference-aware, processed-bulk input CLI smoke demonstration using already measured samples; strict in-project reference gating, explicit provenance/OOD residual **diagnostics, not calibrated detection**, no-ref ABSTAIN and optional synthetic demo. Published A mismatch, 586/584 and strain nuances remain warnings, not 'PASS_G1'.
+5. **R01-B05 / R03-B05:** target experimental small-pool observability and marker feasibility vs direct executable open-source algorithm baselines; do not start another generic exhaustive search or infer automatic bacterial transfer from mammalian papers.
+6. **T2 independent GT:** MERFISH imaging biological-replicate ↔ bulk culture linkage, raw marker-positive numerators/denominators and panel thresholds remain unverified. R02 prior SOURCE_STOP is respected until genuinely new source evidence appears. Prospectively matched t0 bulk→t1 CFU remains unavailable in scope.
+
+**Always report both the physical goal ('new bulk → intermediate population property') and the validation tier.** C23 is internal only; C24 is synthetic only; C25 is engineering only. Retired C10 must not be resurrected.
