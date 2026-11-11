@@ -68,3 +68,18 @@ These are uploaded-source integrity checks, not an independent rerun of original
 | R04-H02 | 12/12 file SHA; R04 re-executed C21 72 rows and posthoc RBF | source audit pass; no real expression GT |
 
 Reported WSL HEAD after I09/C21/C22: `147c6796c46ae7112a70d5d48736b0180be20073`. Local bundle only same-disk tested. Public mirror has distinct history and no raw matrices.
+
+
+## HQ014 evidence audit — 2026-11-11
+
+| Task | File check | Scientific state |
+|---|---|---|
+| I10 | 16/16 source SHA | Papers 66; R03 methods static |
+| C23 | 11/11 source SHA; reported numerical aggregates independently summarized | Real MATQ same-study sc assay aggregate only. M1 NNLS-postnormalized mean MAE .9571; M3 grid .9729. Marker read-detection .459 worse than prior-only .421; shuffle control invalid. No cell heterogeneity GT |
+| C24 | 13/13 source SHA; R04 independently reran 2592 synthetic rows | 336 OOD-flagged output rows still have point estimates; W3 M3 RNA q selective coverage .685; no calibrated intervals or method winner |
+| C25 early/mid/final | each 16/16; sequential versions of one result | Fixed RPO 201x4 output same SHA; 11/11 final tests pass; HQ independently found false reference conditions/BioSample/culture accepted by validate_contract. Source provenance NOT final |
+| R01-B05 | 7/7 research SHA | Six candidates P0067-P0072 to stage; 2 primary-verified, 4 UNKNOWN |
+| R03-B05 | 7/7 research SHA | 17 static baseline records; zero installed/trained here |
+| R04-H03 | 13/13 nested research SHA | Adversarial review, no independently replayed raw MATQ/RPO source matrix and no culture GT |
+
+Reported local WSL HEAD: `50fa369db75f47e9802453762a4d5543788492d7`; GitHub public mirror has separate history. Off-device backup restoration NOT VERIFIED. Active next work: I11, C26, C27, C28, conditional C29, and R02-B11. C10 retired, user scVI not a task dependency.
