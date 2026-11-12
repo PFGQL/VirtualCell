@@ -115,3 +115,16 @@ All **seven** supplied ZIP CRC PASS. SHA checks: I12 18/18, C30 13/13, C31 10/10
 | R04-H05 | 10 audited output files, source-grade and synthetic numeric tests | INDEPENDENT_ADVERSARIAL_METHOD_AUDIT; no raw MATQ/PRECISE/GSE289312 rerun, no new GT |
 
 Codex-reported WSL last HEAD `655f7eb` does not equal public GitHub `main`, which is an independent-history curated scientific-memory mirror. HQ016 original handoff ZIPs preserved in dispatch, not pushed publicly. C10 retired, M3 research active independent of student's scVI study.
+
+## HQ017 source audit and new training authorization — 2026-11-12
+Seven uploaded archives CRC PASS, file SHA manifest counts 18 I13 +17 C33 +15 C34 +11 C35 +13 C36 +11 R02-B13 +11 R04-H06 = 96/96. HQ separately ran original C34 five tests and full FIT; 720 set rows EXACT frozen SHA; 8640 point rows numeric within 1.22e-15 on 6336 nonblank values, not byte-exact point CSV. All actual GEO/PRECISE matrix bytes and local WSL Git objects were NOT in these uploaded packets.
+| I13 | Source/local Git reported; public memory separate | local only, off-device recovery UNKNOWN |
+| C33 | finite, dimensional, unit and trust validation tested in WSL; complete isolated test suite depends on C25/C28 not in C33 ZIP | FUNCTION_ENGINEERING |
+| C34 | 720 set LP, 8640 point synthetic; W2 unknown state interval [0,1] despite robust coverage | SYNTHETIC/MATH, not learned population recovery |
+| C35 | 5255 genes x 12 sorted 100-cell pools; no exact marker or matched mother cultures | REAL_SOURCE_TECHNICAL; no GT |
+| C36 | 201x4 fixed RPO bulk projection; 14 end-to-end +5 parser negatives | DEMO-E FIXED BULK ONLY; no trained sc state |
+| R02-B13 | pilot planning and PI decision brief, NOT SENT, 0 GT | DESIGN_ONLY |
+| R04-H06 | independent source/derived math audit | NO_RAW_GEO_REPLAY/BIO_GT |
+| HQ017 sc-reference-v0 code | HQ original implementation, four synthetic tests and CLI smoke PASS; no genuine MATQ model fitted by HQ because raw data local | IMPLEMENTATION_SMOKE; C37 REAL TRAINING AUTHORIZED NOT DONE |
+| RiboD study candidate | source web-verified E.coli 3h sc GSE260457 and bulk GSE259433 within GSE260458 | WEB_SAME_STUDY only, physical culture link UNKNOWN; C38 FILE_QC pending |
+Codex last reported working WSL HEAD short f5807cf. Current public main has unrelated curated history. New tasks I14/C37/C38/C39, R02-B14, R03-B07, R04-H07 not yet executed.
