@@ -65,3 +65,14 @@ The student's personal scVI project is not part of this task board and must neve
 6. **R02-B11 actual physical marker test design:** matched independent culture new bulk and 2-marker imaging, positive/total count, probe negative, blinded culture holdout; public MERFISH join only if actual new evidence available. Otherwise STOP and provide collaboration-ready protocol.
 
 Continue independent M0–M3 research, but distinguish technically correct bulk-sc aggregate, identifiable bound, and true culture-validated heterogeneity. User's personal scVI learning is not a project gate.
+
+## HQ015 immediate tasks (2026-11-12)
+
+1. **I12** integrate seven original ZIP evidence, manifest, Git ancestry and local-only recovery; publish redacted public delta only. Verify initial local HEAD `860d592277071e64b80b6c1de83d920cfb1fbcab` against actual WSL Git. Public main separate history.
+2. **C30 COUNT-SPACE MODEL**: replace log-profile mixture by linear RNA-weighted count/CPM forward then assay transformation; prereg true q-vs-p and RNA/cell sensitivity; equal mean/different tail and missing-state-in-hull witnesses; same prior-q vs posterior-q, wrong genes and condition-only; synthetic and train-only diagnostics, **NO new test MATQ OD score**.
+3. **C31 DATA/ESTIMAND PIVOT**: original GEO GSE289312 12 size-sorted 100-cell pools (four annotated replicates) and related GSE322907 sc lightweight metadata/processed files; verify exact physical cultivation/source pairing and assay units. If not physically paired with unsorted bulk, use only morphology-conditional pool expression, NOT cell fractions or external GT. Small official file budget <=1MiB download/20MiB decompression.
+4. **C32 DEMO PRODUCT**: fix RPO fixed-source reference-bound engineering contract and malformed inputs; only offer additional MG1655 real project after strict alias/reference preflight in existing v1 archive; retain R2 ABSTAIN for no legal reference.
+5. **R02-B12** physical GT pilot protocol with xylA/xylF probe validation, negative controls, culture-level FISH numerator/denominator, independent days, **condition-only and within-condition variation**. Six cultures are planned feasibility, not powered ranking; no outreach made.
+6. **R03-B06** verify source-code physical measurement operators and licenses in scSemiProfiler/BuDDI/ConDecon etc; do not claim executable baseline until actually run. R04-H05 review only after C30–C32 results.
+7. **Ongoing biological core:** G3 independent culture-aliquot paired orthogonal state GT UNKNOWN, G4 pre-exposure bulk to future phenotype UNKNOWN. No high-confidence cell-state fraction/distribution or CFU prediction claims. M3 independent research ACTIVE, C10 retired, personal scVI not a dependency.
+
