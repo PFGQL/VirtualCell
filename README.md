@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-12 (HQ-016).  
+**Memory snapshot:** 2026-11-12 (HQ-017).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -50,3 +50,9 @@ Only curated Markdown and minimal metadata are intended to be public. Never publ
 ## HQ016 newest evidence and task entry
 
 [HQ016 issue #7](https://github.com/PFGQL/VirtualCell/issues/7) tracks I13, C33 finite/unit-safe input checks, C34 honest identification sets and unknown-state counterexamples, C35 size-sorted *Bacteroides* batch-aware technical pilot, C36 fixed-source RPO engineering demo, and a collaborator feasibility packet. C30 had 70/72 falsely accepted in-hull missing states and 0/70 interval truth coverage. C31 5255 genes x12 *100-cell sorted pools* has no parent-culture GT. C32 is only source-pinned four-sample real bulk projection. No method winner or independent physical cell-state prediction. Read the HQ016 addendum in `state/PROJECT_STATE.md`.
+
+## HQ017 live science mission
+
+**Research milestone is a trained MODEL:** actual authentic bacterial scRNA-seq training + many real bacterial bulk and new bulk inference to an interpretable, assay-defined intermediate population quantity. Earlier fixed-RPO bulk-only Demo-E is a trusted engineering baseline, NOT the final research model. HQ017 authorizes C37 true Salmonella single-cell-trained development prototype (12 bulk only), C38 E.coli RiboD-PETRI sc and related GSE259433 single bulk physical/gene audit, conditional C39 guarded model demo and C40 genuine many-bulk/few-sc joint training if source/assay validation succeeds. Do not wait for independent culture GT to start controlled algorithm training, but never claim cell-fraction/orthogonal truth based on dev or synthetic scores.
+
+Review [HQ017 task issue #8](https://github.com/PFGQL/VirtualCell/issues/8) and [latest detailed state](state/PROJECT_STATE.md). M0–M3 remain open, old C10 retired, student scVI research independent, public mirror distinct from full local WSL Git.
