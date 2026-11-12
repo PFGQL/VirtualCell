@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-11 (HQ-014).  
+**Memory snapshot:** 2026-11-12 (HQ-015).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -42,3 +42,6 @@ Only curated Markdown and minimal metadata are intended to be public. Never publ
 
 
 **Latest execution tracker:** [HQ014 issue #5](https://github.com/PFGQL/VirtualCell/issues/5). C23 internal MATQ aggregate gain does not establish cell heterogeneity; C24 OOD flags were not real withholding; C25 real fixed-RPO demo has unresolved metadata trust. Read the HQ014 append-only state and decisions before new work.
+
+
+**HQ015 evidence gate:** [Issue #6 — count-space operator, genuinely new bacterial data, trusted T0 Demo](https://github.com/PFGQL/VirtualCell/issues/6). C29 trained on actual single cells but mixed class `log1p(CPM)` profiles directly; the physical measurement operator and same-target prior-only test must be corrected before pursuing a larger generator. All four MATQ OD are DEVELOPMENT, not untouched confirmatory holdouts. Current project state includes all seven audited source packages. G1 final/G3/G4 remain blocked, R2 no reference ABSTAIN.
