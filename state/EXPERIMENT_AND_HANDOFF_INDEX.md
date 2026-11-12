@@ -100,3 +100,18 @@ Seven user-provided ZIP archives CRC PASS, **77/77 listed payload SHA256 PASS**.
 
 Codex-reported local HEAD `860d592277071e64b80b6c1de83d920cfb1fbcab`; full work Git history not synced to public `main`. HQ015 method experiment C30 and data triage C31 are new scoped *future* tasks, not completed results.
 
+## HQ016 original ZIP and method evidence — 2026-11-12
+
+All **seven** supplied ZIP CRC PASS. SHA checks: I12 18/18, C30 13/13, C31 10/10, C32 12/12, R03-B06 7/7, R04-H05 10/10 = **70/70**. R02-B12 two readable files but **no internal member SHA manifest**. Actual large source matrix not contained in uploaded handoffs.
+
+| Work | Provenance | Highest justified evidence |
+|---|---|---|
+| I12 | Codex reports local Git stage and source audit, 72 papers, 25 registry entries | SOURCE_GIT_REPORTED; off-device restore UNKNOWN |
+| C30 | Full synthetic code, 6912 rows, 96 summary; R04 independent numeric replay max 1.78e-15 but not byte-identical; HQ 3 invalid-parameter direct sentinels | MATH/SYNTHETIC PASS; W2 inside-hull 70/72 false-safe, q coverage 0/70; nonfinite source function accepts invalid |
+| C31 | 5255×12, official GEO processed .gz SHA, 12 alias joins, real file source QC as Codex report | REAL_SOURCE_QC_REPORTED; 100-cell size-sorted pools; dates/depth confounded, no culture GT, matrix absent from uploaded ZIP |
+| C32 | 201×4 RPO derived activity, 10 negatives reported, second TRN source ABSTAIN; HQ direct `inspect_csv` NaN/Inf source test | PINNED_REAL_ENGINEERING_PROVISIONAL; 201 modules not state proportions; no external arbitrary bulk |
+| R02-B12 | two proposed collaboration docs | DESIGN_ONLY; 0 FISH cultures collected, no input member SHA manifest |
+| R03-B06 | 8×10 method physical operator matrix, 2 syntax-only reference prototypes | STATIC_PRIOR_ART; R04 tiny 2-gene smoke only, external real models NOT_RUN |
+| R04-H05 | 10 audited output files, source-grade and synthetic numeric tests | INDEPENDENT_ADVERSARIAL_METHOD_AUDIT; no raw MATQ/PRECISE/GSE289312 rerun, no new GT |
+
+Codex-reported WSL last HEAD `655f7eb` does not equal public GitHub `main`, which is an independent-history curated scientific-memory mirror. HQ016 original handoff ZIPs preserved in dispatch, not pushed publicly. C10 retired, M3 research active independent of student's scVI study.
