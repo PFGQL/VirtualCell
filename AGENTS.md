@@ -33,3 +33,8 @@ Read the **HQ013 addendum** in `state/PROJECT_STATE.md` and [Issue #4](https://g
 
 ## HQ014 mandatory decision update
 Read HQ014 addendum in state/PROJECT_STATE.md and [issue #5](https://github.com/PFGQL/VirtualCell/issues/5). C10 retired, scVI student studies not a research dependency. Authorized C26 stronger real MATQ nulls (technical target), C27 actual selective synthetic ABSTAIN and sparse labels, C28 trusted RPO source metadata and full local replay, conditional C29 genuinely individual-sc reference generative micro-pilot, and collaborator-ready physical marker GT design. Do not announce a method winner, recovered cells, validated cell proportions or prospective phenotype from those internal/synthetic/engineering records.
+
+
+## HQ015 mandatory research-method gate
+
+Read the HQ015 section of `state/PROJECT_STATE.md` and [Issue #6](https://github.com/PFGQL/VirtualCell/issues/6). C29's individual-cell K2 reference is a legitimate exploratory M3 component, but the bulk forward model must mix appropriate RNA/linear expression contributions **before** applying log/assay transform; RNA q is not cell fraction p unless RNA/cell is calibrated. C29 same-q prior is near-equal to posterior, wrong-gene null wins, and marker 95% assumption ranges cover just 1/9. **All four MATQ OD were reused during algorithm development and cannot be re-declared pristine confirmation data.** First authorized jobs: I12, C30 count-space synthetic observation test, C31 genuinely new source lineage, C32 honest reference-bound T0 engineering. M3 is not selected or prohibited, original C10 retired, and student's separate scVI work is never a dependency. No private bundle/matrix/history push to public GitHub.
