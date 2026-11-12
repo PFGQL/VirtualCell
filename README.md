@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-12 (HQ-015).  
+**Memory snapshot:** 2026-11-12 (HQ-016).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -45,3 +45,8 @@ Only curated Markdown and minimal metadata are intended to be public. Never publ
 
 
 **HQ015 evidence gate:** [Issue #6 — count-space operator, genuinely new bacterial data, trusted T0 Demo](https://github.com/PFGQL/VirtualCell/issues/6). C29 trained on actual single cells but mixed class `log1p(CPM)` profiles directly; the physical measurement operator and same-target prior-only test must be corrected before pursuing a larger generator. All four MATQ OD are DEVELOPMENT, not untouched confirmatory holdouts. Current project state includes all seven audited source packages. G1 final/G3/G4 remain blocked, R2 no reference ABSTAIN.
+
+
+## HQ016 newest evidence and task entry
+
+[HQ016 issue #7](https://github.com/PFGQL/VirtualCell/issues/7) tracks I13, C33 finite/unit-safe input checks, C34 honest identification sets and unknown-state counterexamples, C35 size-sorted *Bacteroides* batch-aware technical pilot, C36 fixed-source RPO engineering demo, and a collaborator feasibility packet. C30 had 70/72 falsely accepted in-hull missing states and 0/70 interval truth coverage. C31 5255 genes x12 *100-cell sorted pools* has no parent-culture GT. C32 is only source-pinned four-sample real bulk projection. No method winner or independent physical cell-state prediction. Read the HQ016 addendum in `state/PROJECT_STATE.md`.
