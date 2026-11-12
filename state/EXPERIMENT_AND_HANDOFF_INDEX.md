@@ -83,3 +83,20 @@ Reported WSL HEAD after I09/C21/C22: `147c6796c46ae7112a70d5d48736b0180be20073`.
 | R04-H03 | 13/13 nested research SHA | Adversarial review, no independently replayed raw MATQ/RPO source matrix and no culture GT |
 
 Reported local WSL HEAD: `50fa369db75f47e9802453762a4d5543788492d7`; GitHub public mirror has separate history. Off-device backup restoration NOT VERIFIED. Active next work: I11, C26, C27, C28, conditional C29, and R02-B11. C10 retired, user scVI not a task dependency.
+
+## HQ015 original handoff audit (2026-11-12)
+
+Seven user-provided ZIP archives CRC PASS, **77/77 listed payload SHA256 PASS**. I11 12/12, C26 10/10, C27 11/11, C28 10/10, C29 10/10, R02-B11 11/11, R04-H04 13/13. This is not raw data rerun or local Git object verification.
+
+| Stage | Actually reviewed | Status |
+|---|---|---|
+| I11 | catalog 66→72 papers (six P candidates, only 2 with conservative primary verification), local bundle | METADATA/LOCAL_GIT_REPORTED, off-device UNKNOWN |
+| C26 | 28 primary lines, 12 marker lines recomputed | INTERNAL_REAL_ASSAY; 0.960590 simplex 5023 gene aggregate, marker bulk .458953 > prior .421007 |
+| C27 | 7776 synthetic records and decisions parsed | SYNTHETIC; 3240 true withheld, W2 M3 false-safe 50/72 |
+| C28 | source-pinned real RPO processed-bulk metadata and 201×4 output, 14 controls from independent R04 replay | PINNED_ENGINEERING_PROVISIONAL, no external biology |
+| C29 | individual-sc K2 component and 12 marker outputs; recomputed 9 retained MAEs; R04-derived Jensen gap and q prior counterfactual | INTERNAL_EXPLORATORY, PHYSICAL_FORWARD_VETO, TEST_FEEDBACK_USE, 1/9 bounds coverage |
+| R02-B11 | six sample rows all PLANNED, data dictionary and FISH design | DESIGN_ONLY, no physical GT |
+| R04-H04 | source functions/derived-output/synthetic-control audit, 34 STOP claims | INDEPENDENT_METHOD_AUDIT, not raw-matrix replay |
+
+Codex-reported local HEAD `860d592277071e64b80b6c1de83d920cfb1fbcab`; full work Git history not synced to public `main`. HQ015 method experiment C30 and data triage C31 are new scoped *future* tasks, not completed results.
+
