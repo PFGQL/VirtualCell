@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-12 (HQ-017).  
+**Memory snapshot:** 2026-11-13 (HQ-018).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -56,3 +56,9 @@ Only curated Markdown and minimal metadata are intended to be public. Never publ
 **Research milestone is a trained MODEL:** actual authentic bacterial scRNA-seq training + many real bacterial bulk and new bulk inference to an interpretable, assay-defined intermediate population quantity. Earlier fixed-RPO bulk-only Demo-E is a trusted engineering baseline, NOT the final research model. HQ017 authorizes C37 true Salmonella single-cell-trained development prototype (12 bulk only), C38 E.coli RiboD-PETRI sc and related GSE259433 single bulk physical/gene audit, conditional C39 guarded model demo and C40 genuine many-bulk/few-sc joint training if source/assay validation succeeds. Do not wait for independent culture GT to start controlled algorithm training, but never claim cell-fraction/orthogonal truth based on dev or synthetic scores.
 
 Review [HQ017 task issue #8](https://github.com/PFGQL/VirtualCell/issues/8) and [latest detailed state](state/PROJECT_STATE.md). M0–M3 remain open, old C10 retired, student scVI research independent, public mirror distinct from full local WSL Git.
+
+## HQ018 active research
+
+Actual real-sc-trained MATQ model now exists (C37) and source-locked DEV DEMO-M (C39) queries new MATQ bulk. Do not overclaim it as validated cell proportions. R04/HQ found EM captured-cell pi vs bulk assay-effective q prior/marker mismatch, as well as reference rank and one-read output guards. ΔΔ in RiboD eLife Figure1 denotes protocol, not double gene deletion. Real E.coli sc/bulk sample/assay pair still needs technical handling.
+
+**Read [HQ018 issue #9](https://github.com/PFGQL/VirtualCell/issues/9) and canonical state.** Next priority is actual MATQ unit-corrected real model refit and strong REAL NNLS_REF/SC_NMF baselines, while independently developing limited real E.coli sc reference and conditional many-bulk/few-sc learning. No algorithm winner, no external G3. This curated public mirror is not the full local WSL backup.
