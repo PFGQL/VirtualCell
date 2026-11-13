@@ -64,3 +64,11 @@ This is an append-only-style **public summary**, not a verbatim copy of confiden
 | **HQ017-D05** | R02-B13 2-page brief, 1-page PI questionnaire, 144 data fields complete but no outreach/probe/cultures/FISH | Keep necessary orthogonal biological validation as a separate partnership gate, do not block exploratory sc model training or claim success of G3 |
 
 | **HQ017-D06** | User's research requires many bulk + limited sc joint training, whereas C37 MATQ only has 12 real bulk libraries | Add conditional C40 large-bulk/few-sc joint training on source/assay verified E.coli real sc and PRECISE-MG1655 bulk. C38 data permission/source proof required, G3 not required to perform research training; no log2TPM count-mixing shortcut |
+
+
+| **HQ018-D01** | Four genuinely sc-trained C37 fitted models and C39 pinned MATQ bulk query exist; all four OD have historical feedback | Recognize model milestone, not independent biological validation or M3 win |
+| **HQ018-D02** | Captured-cell prior pi and bulk effective mixture q differ in units; current q-weighted cell-marker and q-pi regularization are conditional; rank0 and one-read input lack guards | Authorize C41 real MATQ retrain with matched-unit prior, p/r scenarios, rank and depth ABSTAIN |
+| **HQ018-D03** | R03 NNLS_REF/SC_NMF ran only on synthetic data while C37 M1 and M3 share a reference | C42 real MATQ same-input strong-baseline benchmark, 4 DEV folds and honest controls |
+| **HQ018-D04** | Official eLife Figure 1 says ΔΔ is RiboD protocol, sc GEO WT | Delete false C38/C40 genotype veto; seven real source/assay gates remain; C43 bounded actual E.coli sc pilot authorized |
+| **HQ018-D05** | C40 fitted zero many-bulk/few-sc models | C44 conditionally develop true multi-bulk sc method with separate sc count and bulk transformed observation units, no fictional matching |
+| **HQ018-D06** | C39 conditional q is not observed p and current marker physics uncalibrated | C45 updated DEMO-M only after C41 correction and C42 real baselines, separate from bulk-only DEMO-E |
