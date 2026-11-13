@@ -128,3 +128,15 @@ Seven uploaded archives CRC PASS, file SHA manifest counts 18 I13 +17 C33 +15 C3
 | HQ017 sc-reference-v0 code | HQ original implementation, four synthetic tests and CLI smoke PASS; no genuine MATQ model fitted by HQ because raw data local | IMPLEMENTATION_SMOKE; C37 REAL TRAINING AUTHORIZED NOT DONE |
 | RiboD study candidate | source web-verified E.coli 3h sc GSE260457 and bulk GSE259433 within GSE260458 | WEB_SAME_STUDY only, physical culture link UNKNOWN; C38 FILE_QC pending |
 Codex last reported working WSL HEAD short f5807cf. Current public main has unrelated curated history. New tasks I14/C37/C38/C39, R02-B14, R03-B07, R04-H07 not yet executed.
+
+
+## HQ018 source and real methods — 2026-11-13
+
+Eight ZIP CRC PASS; member SHA counts I14 15, C37 23, C38 13, C39 12, C40 7, R02-B14 9, R03-B07 51, R04-H07 13 = 143/143. HQ executed four C37 synthetic unit tests, original-code rank/depth counterexamples and a pi/r math sentinel; did not independently retrain missing original MATQ matrices/four fitted NPZ binaries.
+
+C37: Codex-reported REAL sc-trained four finite models, 288 individual cells and 9 train bulk per DEV fold; 12 actual source-locked queries. Marker error from q-weighted technical detection must not be interpreted as calibrated cell detection.
+C38: RiboD-PETRI real E.coli processed sc prefix and actual related bulk QC; ΔΔ protocol correction, culture and assay gates unresolved.
+C39: REAL_SC_TRAINED_DEV_DEMO q=(.090952,.909048), biology ABSTAIN.
+C40: joint model fit 0, PRECONDITION_FAILED; after false genotype blocker removal seven source/measurement issues remain.
+R02-B14 official corrected genotype/protocol and physical aliases; R03-B07 NNLS_REF and SC_NMF executed on synthetic only; R04-H07 source/functional audit without raw MATQ replay.
+I14: local Git final HEAD short decfee7 reported, off-device bundle recovery not verified. New I15/C41/C42/C43/C44/C45 experiments pending, not completed.
