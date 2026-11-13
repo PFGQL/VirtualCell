@@ -126,3 +126,21 @@ Continue independent M0–M3 research, but distinguish technically correct bulk-
 7. R03-B08 newest original-source direct prior-art/code/license study and candidate executable euk benchmark; R02-B16 one-pass RiboD HSD↔Supplementary11 physical provenance check and collaboration data gate; R04-H09 postexperiment independent audit. Partner B13 materials ready/not sent.
 
 8. G3 independent FISH/orthogonal marker culture GT and G4 true time-ordered phenotype labels remain absent. No model-architecture/scVI personal dependency and no claim of recovered single cells.
+
+## HQ020 published baseline first — 2026-11-13
+
+1. **I17** source check nine current ZIPs, 94/94 listed members SHA/CRC, authenticate actual WSL latest HEAD and model inputs, refresh bundle; public mirror sanitized only.
+
+2. **C51 MUST RUN ORIGINAL AUTHOR CODE:** pinned mcgilldinglab/scSemiProfiler c2aea021188759e56ecf14578915c0237aaa75d2 in isolated conda environment; check LICENSE.txt, broken setup.py mpmath syntax, pyproject pins, author example actual VAE/GAN pretrain & target inference. Clear blocked root cause if impossible, no import-only PASS. Do not disturb working neuro_cota.
+
+3. **C52 actual bacterial reference and pseudo-bulk baseline:** valid MATQ AnnData from authentic 384 single-cell featureCounts reads, group-disjoint pseudo-bulk target and separately sourced sc reference, author native inference and generated cells. Pseudo-bulk samples derived from target sc are an expressly synthetic benchmark, not independent measured bulk. Score vs NMF/NNLS/C47 prior with equal data and gene universe; all four OD already DEV.
+
+4. **C53 conditional actual MATQ real-bulk native mode:** source-pinned target bulk and legitimate representative bulk (author requires both), identify if only condition-level proxy rather than mother culture. Native mode output can exist but biological scores must ABSTAIN if representative culture/assay gain not calibrated or C46 residual fails.
+
+5. **C54** compare published generative method vs current C47/C48/NMF, distinguish source prior vs query-specific improvement, residual vs latent nonidentifiability, and propose one data-driven modification to VirtualCell rather than a production diffusion project.
+
+6. **C55** GEO GSE337479 small 0427-3/0427-4 processed reanalysis file bytes SHA, count/UMI/genes/barcode and overlap QC; same SRX/BioSample old RiboD, not independent physical GT; avoid previously denied training attempt circumvention.
+
+7. **C56** conditional undergraduate model demo with original method output and honest pseudo/real domain label; no G1/G3/G4 promotion by visual appearance.
+
+8. **Reviewer policy:** no automatic R04-H10. Only substantive exceptional review with a concrete trigger. No fabricated cell-state biological GT; scientific model architecture and outputs still open.
