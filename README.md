@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-13 (HQ-018).  
+**Memory snapshot:** 2026-11-13 (HQ-019).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -62,3 +62,11 @@ Review [HQ017 task issue #8](https://github.com/PFGQL/VirtualCell/issues/8) and 
 Actual real-sc-trained MATQ model now exists (C37) and source-locked DEV DEMO-M (C39) queries new MATQ bulk. Do not overclaim it as validated cell proportions. R04/HQ found EM captured-cell pi vs bulk assay-effective q prior/marker mismatch, as well as reference rank and one-read output guards. ΔΔ in RiboD eLife Figure1 denotes protocol, not double gene deletion. Real E.coli sc/bulk sample/assay pair still needs technical handling.
 
 **Read [HQ018 issue #9](https://github.com/PFGQL/VirtualCell/issues/9) and canonical state.** Next priority is actual MATQ unit-corrected real model refit and strong REAL NNLS_REF/SC_NMF baselines, while independently developing limited real E.coli sc reference and conditional many-bulk/few-sc learning. No algorithm winner, no external G3. This curated public mirror is not the full local WSL backup.
+
+## HQ019 focused undergraduate R&D
+
+**Current research implementation route**: true bacterial sc count-based latent reference encoder + train-sc-cell-only pseudo-bulk supervised projector + separately constrained assay adaptation for independently supplied real bulk. This is a direction, not a method winner or verified reconstruction of actual cells. Read [HQ019 issue #10](https://github.com/PFGQL/VirtualCell/issues/10) and the current [scientific state](state/PROJECT_STATE.md).
+
+**Immediate scientific blocker:** authentic C41 MATQ bulk query forward-model TV distance 0.572–0.730 with no train-only misfit rejection; conditional q must not become a credible cell-state estimate. C46 must calibrate model fit and finite-depth reference identifiability, while C47 actually trains a small sc reference encoder and makes traceable pseudo-bulk. C48 only proceeds to real-bulk projection if C46/C47 gates support it; otherwise report real bulk ABSTAIN. C42 real NNLS and SC_NMF methods were run as legitimate DEV competitors, no winner. No true independent culture marker GT or prospective phenotype yet.
+
+M3/scVI-style research is now focused for undergraduate *development*; personal scVI study still independent and original C10 retired. GitHub is curated scientific memory, not a replica of private WSL Git history.
