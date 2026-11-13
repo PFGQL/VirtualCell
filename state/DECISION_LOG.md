@@ -72,3 +72,15 @@ This is an append-only-style **public summary**, not a verbatim copy of confiden
 | **HQ018-D04** | Official eLife Figure 1 says ΔΔ is RiboD protocol, sc GEO WT | Delete false C38/C40 genotype veto; seven real source/assay gates remain; C43 bounded actual E.coli sc pilot authorized |
 | **HQ018-D05** | C40 fitted zero many-bulk/few-sc models | C44 conditionally develop true multi-bulk sc method with separate sc count and bulk transformed observation units, no fictional matching |
 | **HQ018-D06** | C39 conditional q is not observed p and current marker physics uncalibrated | C45 updated DEMO-M only after C41 correction and C42 real baselines, separate from bulk-only DEMO-E |
+
+## HQ019 new decisions
+
+| **HQ019-D01** | Founding user objective is a real sc-trained new-bulk-to-intermediate model; C41/C42 are interpretable finite reference and real baseline progress but not a complete neural pseudo-bulk projector | Make small count-aware sc latent encoder + train-sc pseudo-bulk projector + explicit real-bulk measurement bridge the **FOCUSED undergraduate research development route**. C10 stays retired; no default full scVI transplant; equal-information non-neural comparators remain mandatory |
+
+| **HQ019-D02** | All 12 real C41 bulk query TV distances 0.572 to 0.730 without calibrated rejection, plus K2 finite-depth prior-dominated false-safe | C46 train-side residual/separation/prior sensitivity gate before any q interpreted as trustworthy real bulk state; output MODEL_MISFIT_ABSTAIN where necessary, no post hoc threshold |
+
+| **HQ019-D03** | scSemiProfiler already performs reference sc generative reconstruction constrained by target bulk, other methods already include VAE and count mixture | Novelty must lie in bacterial assay-identifiability, calibrated cross modality information gain and independently measurable functionals, not bulk-conditioned single-cell generation as such |
+
+| **HQ019-D04** | C43 automatic source training request safety rejection, C44 authentic joint fits=0, source aliases/units unresolved | Do not circumvent safety review; RiboD targeted data source inspection only unless legitimately allowed; permit bounded many-bulk DEV self-supervised pretraining without declaring joint sc model or external performance |
+
+| **HQ019-D05** | No true bulk-sc culture anchor and no FISH source independent GT; pseudo-bulk test labels are derived from sampled training sc | C47/48 pseudo-bulk test is engineering evidence only, should use group-disjoint source cells; require new culture-level physical GT for G3 and no simulated-sc-is-recovered claim |
