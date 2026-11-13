@@ -84,3 +84,13 @@ This is an append-only-style **public summary**, not a verbatim copy of confiden
 | **HQ019-D04** | C43 automatic source training request safety rejection, C44 authentic joint fits=0, source aliases/units unresolved | Do not circumvent safety review; RiboD targeted data source inspection only unless legitimately allowed; permit bounded many-bulk DEV self-supervised pretraining without declaring joint sc model or external performance |
 
 | **HQ019-D05** | No true bulk-sc culture anchor and no FISH source independent GT; pseudo-bulk test labels are derived from sampled training sc | C47/48 pseudo-bulk test is engineering evidence only, should use group-disjoint source cells; require new culture-level physical GT for G3 and no simulated-sc-is-recovered claim |
+
+| **HQ020-D01** | User prioritizes the published scSemiProfiler baseline. R03-B08 confirms it was never actually run, and author real mode needs both representative and target bulk | C51 first upstream exact source installed/actual smoke, C52 real bacterial MATQ author training, C53 conditional real-bulk technical query; don't substitute a homegrown VAE or static review |
+
+| **HQ020-D02** | C46 real MATQ train TV .823–.853/0.25 stop, 12/12 abstain; C47 NMF beats small AE in 4 internal heldout OD, C48 pseudo z labels cannot be inferred uniquely from sums | Keep sc count encoder + pseudo-bulk main route, but treat it as exploratory and use strong same-input M1/NNLS/NMF/prior baselines; no cell fraction or real-bulk claim without an assay bridge |
+
+| **HQ020-D03** | scSemiProfiler upstream `LICENSE.txt` dual academic GPLv3 and commercial, `setup.py` malformed mpmath and pyproject pin conflict; old torch/scvi ecosystem | C51 isolated version-pinned environment, minimal recorded compatibility patch, zero modification of user's `neuro_cota`; do not publicly vendor licensed code |
+
+| **HQ020-D04** | R02-B16 official reused RiboD 0427-4 reprocessed file found with exact SRX/BioSample identity | C55 low-cost actual gzip content and barcode/UMI/gene audit, no new biological replicate or verified culture GT invented |
+
+| **HQ020-D05** | User requests omitting R04 where unnecessary; R04-H09 source/identifiability review already available | Retire mandatory per-cycle R04 scheduling; escalate selectively for Gate promotion, external claim, striking anomaly, information leak, or source dispute. Codex still responsible for tests and negative controls |
