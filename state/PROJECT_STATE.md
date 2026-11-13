@@ -147,3 +147,20 @@ See `state/OPEN_QUESTIONS.md` and `governance/WORKFLOW_AND_SYNC.md` for next wor
 ## HQ017 bulk-scale clarification
 C37 authentic Salmonella sc training + 12 same-study bulk inputs is only the first truly trained DEVELOPMENT model, not yet the full original many-bulk-plus-few-sc learning scale. Conditional C40 now explicitly targets joint training with E.coli RiboD single-cell reference and hundreds of PRECISE-MG1655 bulk samples or a justified alternative. C40 can begin without G3 if C38 has verified gene IDs, strain/substrain, source identity, input measurement units and calibration; never linearly mix author log2TPM or treat v1 586 columns as blindly independent/valid samples. C40 must report actual sc cell count, bulk sample count and fitted model, not mere bulk projection or algorithm catalogue.
 Do not assume C40 is already executed. No new production VAE/flow backbone selected. G1 general new input calibration and independent biological G3 remain blocked until evidence.
+
+
+## HQ018 — 2026-11-13 source-audited model status
+
+Eight uploaded archives passed CRC and 143/143 file SHA checks (I14 15, C37 23, C38 13, C39 12, C40 7, R02-B14 9, R03-B07 51, R04-H07 13). HQ ran C37's four supplied synthetic unit tests and rank/prior/depth function sentinels. Original complete MATQ matrices and fitted NPZ models were not supplied, so HQ did not independently rerun the actual real-data training; Codex reports local final HEAD short decfee7.
+
+**C37 is a substantive real-sc-model milestone:** four fitted Salmonella MATQ models using 288 individual sc and nine training bulk per OD-development fold, 12 genuine bulk queries; C39 demonstrated one fixed model query q=(0.090952,0.909048). All four OD previously informed development. Aggregated marker read-detection MAE M1=.36500, M3=.36872, prior=.42084, but M3 did not beat M1, and the predicted q is not a measured cell proportion.
+
+**R04 physics correction:** C37's EM pi is a captured-cell prior, whereas its bulk q is an assay-effective mixture contribution. Existing q-to-p technical marker calculation and pi-as-q prior require an additional state-dependent effective RNA/capture model; absent that, marker gains are descriptive only. HQ reproduced that identical state profiles return a numeric q and zero residual instead of rank-abstain, and one-read input can produce q. New rank, depth, unit and prior guards are required.
+
+**C38 metadata correction:** Official eLife Figure 1 identifies ΔΔ as RiboD-PETRI protocol, not a double-deletion genotype; sc GEO says WT. Thus the prior C38/C40 genotype blocker is invalid. Official same-study sc GSM8117639 and bulk GSM8116272 share 4194 gene IDs (C38 bounded sc prefix), but their processed UMI/read units, parent cultures, assay calibration and second sc processed matrix remain unresolved. C40 joint many-bulk model fitting did not run; removing the false genotype blocker leaves seven reported remaining gates.
+
+R03-B07 actually ran independent NNLS_REF and SC_NMF only on synthetic count matrices, not true MATQ. R02-B14 corrected provenance without finding culture-level GT. No model winner.
+
+**HQ018 new work:** I15 evidence/Git sync; C41 physical pi/q and marker/rank/depth repair with actual MATQ retraining; C42 execute real MATQ equal-input NNLS_REF/SC_NMF baselines; C43 bounded individual-cell E.coli reference training plus related bulk technical diagnostic; C44 conditional many-bulk/few-sc learning with proper modality-specific observation models; C45 updated honest DEMO-M. R02-B15/R04-H08 independent audits. These are authorized plans, not completed results. C10 retired; student scVI work independent.
+
+**Gates:** G1 general calibrated bulk BLOCKED, G2 SAME_STUDY_DEV, G3 independent physical marker GT BLOCKED, G4 prospective phenotype BLOCKED, R2 no valid reference ABSTAIN. Full off-device WSL recovery not verified.
