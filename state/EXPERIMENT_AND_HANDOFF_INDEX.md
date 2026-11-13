@@ -140,3 +140,11 @@ C39: REAL_SC_TRAINED_DEV_DEMO q=(.090952,.909048), biology ABSTAIN.
 C40: joint model fit 0, PRECONDITION_FAILED; after false genotype blocker removal seven source/measurement issues remain.
 R02-B14 official corrected genotype/protocol and physical aliases; R03-B07 NNLS_REF and SC_NMF executed on synthetic only; R04-H07 source/functional audit without raw MATQ replay.
 I14: local Git final HEAD short decfee7 reported, off-device bundle recovery not verified. New I15/C41/C42/C43/C44/C45 experiments pending, not completed.
+
+## HQ019 evidence audit and R&D authorization — 2026-11-13
+
+Eight uploaded ZIP archives CRC PASS: I15 17/17, C41 14/14, C42 15/15, C43 8/8, C44 8/8, C45 15/15, R02-B15 8/8, R04-H08 16/16 listed SHA; total 101/101. Archive total 110 including 9 manifest/checksum files. Original full MATQ data files, fitted NPZ and WSL local Git objects not in HQ uploads.
+
+C41 real sc refit, four DEV models and 12 real bulk queries; sc prior units split, forward bulk query TV 0.572–0.730 no train-only rejection gate. C42 true real MATQ NNLS_REF and SC_NMF fitted, no confirmed winner. C43 source correction passed but E coli model training request rejected by automatic safety guard, no fitted model. C44 qualified multi-bulk/sc joint model fits 0. C45 one actual fixed DEV demo with mandatory biological state ABSTAIN; R02 B15 only primary source trace, culture unknown. R04 H08 independent source and derived-result audit, no raw dataset retrain by HQ.
+
+HQ019 dispatch packages all 8 source ZIPs, a 25-file payload manifest, pure numerical 7/7 tests and future Codex I16/C46/C47/C48/C49/C50 + R03-B08/R02-B16/R04-H09 contracts. These are authorized FUTURE work, not completed model experiments. Original non-neural models remain baselines; scVI-style encoder route focused but scientifically unselected and unvalidated in real bulk.
