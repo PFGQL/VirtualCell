@@ -1,7 +1,7 @@
 # VirtualCell — public research memory and decision record
 
 **Status:** Early research prototype. No validated bulk-to-cell-state inference claim.  
-**Memory snapshot:** 2026-11-13 (HQ-019).  
+**Memory snapshot:** 2026-11-13 (HQ-020).  
 **Authority:** This public repository contains a **curated, non-sensitive research-memory mirror**, **not** the entire local WSL code repository or a verified backup of its Git history.
 
 ## The immutable research mission
@@ -70,3 +70,11 @@ Actual real-sc-trained MATQ model now exists (C37) and source-locked DEV DEMO-M 
 **Immediate scientific blocker:** authentic C41 MATQ bulk query forward-model TV distance 0.572–0.730 with no train-only misfit rejection; conditional q must not become a credible cell-state estimate. C46 must calibrate model fit and finite-depth reference identifiability, while C47 actually trains a small sc reference encoder and makes traceable pseudo-bulk. C48 only proceeds to real-bulk projection if C46/C47 gates support it; otherwise report real bulk ABSTAIN. C42 real NNLS and SC_NMF methods were run as legitimate DEV competitors, no winner. No true independent culture marker GT or prospective phenotype yet.
 
 M3/scVI-style research is now focused for undergraduate *development*; personal scVI study still independent and original C10 retired. GitHub is curated scientific memory, not a replica of private WSL Git history.
+
+## HQ020 direct published benchmark
+
+**Now highest execution priority:** *actually run the original published scSemiProfiler* code as a generative baseline on authentic bacterial MATQ sc, first author-native smoke (C51), then source-group-disjoint bacterial pseudo-bulk (C52), then strictly conditional native real bulk (C53). This is a baseline trial, not a selected final model or validated recovered cells. Original user goal of an authentic sc-trained, many-bulk-aware new-bulk-to-population-latent tool remains.
+
+[HQ020 GitHub issue #11](https://github.com/PFGQL/VirtualCell/issues/11) · [current scientific state](state/PROJECT_STATE.md).
+
+Key background: HQ019 C46 train-LOO real bulk TV 0.823–0.853 with 12/12 real-bulk abstain; C47 trained 4 authentic count encoders but NMF beats their heldout count NLL; C48 pseudo latent NMF MAE ~0.277 and **0 real bulk states**, C49 572 bulk-only PCA, not sc joint. The author scSemiProfiler source has academic GPLv3/commercial dual LICENSE.txt, broken setup.py dependency syntax, and requires both representative and target bulk for real mode. Use an isolated conda environment and exact upstream source/patch ledger, never vendor its code in this public memory mirror. R02-B16 found processed RiboD replicate2 reanalysis candidate in GEO GSE337479, file contents pending. R04 post-result review is now **selective, not automatic** by user's instruction. G1 general / G3 / G4 all BLOCKED; four MATQ OD historically DEV.
