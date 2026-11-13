@@ -108,3 +108,21 @@ Continue independent M0–M3 research, but distinguish technically correct bulk-
 5. C44: conditional actual hundreds-bulk plus limited-real-sc joint training using valid PRECISE sample identities and separate log2TPM/UMI observation heads. If invalid, explicit precondition FAIL; do not pretend separate independent fits are joint.
 6. C45: after C41/C42, guarded sc-trained DEMO-M v2, with effective q and nonvalidated p/r marker sensitivity correctly separated. DEMO-E remains bulk-only.
 7. R02-B15 partner GT and R04-H08 adversarial audit, no outreach without human direction. No G1/G3/G4 promotion; scVI student studies independent.
+
+## HQ019 active focused model tasks — 2026-11-13
+
+1. I16: eight original uploaded HQ018 evidence ZIPs, listed 101 SHA, local WSL complete Git/model/query SHA and recovery audit; update curated public memory only. Owner-reported local HEAD 049da539fa58dd08845f1434b187819812c1b41f.
+
+2. C46 (hard prerequisite): authentic train-side MATQ forward bulk mismatch calibration, model predictive and reference pseudo-bulk fit, finite sequencing depth/K2 reference discrimination, prior/gain sensitivity, train-only residual acceptance, MODEL_MISFIT_ABSTAIN for real query as needed; source TV 0.572–0.730 must be shown.
+
+3. C47 parallel main R&D: actually fit authentic MATQ sc count-aware small latent encoder/decoder vs transparent mixture/NMF; generate synthetic pseudo-bulks by summing training-cell raw counts before transforms; group-disjoint cell/bookkeeping, no prior used holdout OD as independent confirmatory GT. Train real encoder SHA required.
+
+4. C48 after C46+C47: actual pseudobulk to latent-functional bulk projector and constrained real assay domain adaptation; true bulk queries only if C46 bridge meets pre-registered standard; compare strong non-neural and prior-only controls and preserve abstention; simulated cells labeled simulated.
+
+5. C49 conditional many-PRECISE-bulk DEV self-supervised pretraining with version/strain/sample and training alias audit, author log2TPM head; does not become joint bulk/sc training without independent cross-modal bridge, or external evaluation without disjoint project samples.
+
+6. C50 conditional undergraduate Demo-M v3 with learned sc encoder and projector, real-bulk diagnostics, no valid bridge ABSTAIN; frozen bulk-only Demo-E separate.
+
+7. R03-B08 newest original-source direct prior-art/code/license study and candidate executable euk benchmark; R02-B16 one-pass RiboD HSD↔Supplementary11 physical provenance check and collaboration data gate; R04-H09 postexperiment independent audit. Partner B13 materials ready/not sent.
+
+8. G3 independent FISH/orthogonal marker culture GT and G4 true time-ordered phenotype labels remain absent. No model-architecture/scVI personal dependency and no claim of recovered single cells.
