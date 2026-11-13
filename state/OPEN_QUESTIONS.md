@@ -97,3 +97,14 @@ Continue independent M0–M3 research, but distinguish technically correct bulk-
 
 ## HQ017 large-bulk joint-training gate
 **C40 CONDITIONAL CORE:** After C37 real sc model fit and C38 official RiboD E.coli sc with GSE259433 bulk QC, formally test many real PRECISE-MG1655 bulk + limited real E.coli sc joint training. Need exact strain/gene namespace, author log TPM transform or separate linear bulk read counts and qualified reference, source/training overlap, proper assay forward. If any unresolved, record PRECONDITION_FAILED; do not fake C40 training. This is the difference between the 12-bulk MATQ sc-trained prototype and original model-scale scientific goal. Still no automatic G3 pass or winner.
+
+
+## HQ018 actual model tasks — 2026-11-13
+
+1. I15: eight ZIP source audit (143 SHA), true local WSL Git ancestry, model artifact checks and local bundle restore; no public working-history push.
+2. C41: genuine real MATQ retraining, pi captured-cell prior vs captured-read and bulk-effective q separation, q-to-p scenarios, physical marker target, rank0/depth guards and frozen outputs.
+3. C42: run NNLS_REF and SC_NMF on the exact actual C37 train sc, train bulk, real MATQ queries plus sc-only and bulk-only controls. Four OD are DEV; report at fold level.
+4. C43: correct ΔΔ as RiboD experiment protocol rather than WT genotype conflict. Train bounded genuine E.coli sc-reference and run a strictly technical single-bulk case with uncalibrated-assay ABSTAIN; no culture match assumed.
+5. C44: conditional actual hundreds-bulk plus limited-real-sc joint training using valid PRECISE sample identities and separate log2TPM/UMI observation heads. If invalid, explicit precondition FAIL; do not pretend separate independent fits are joint.
+6. C45: after C41/C42, guarded sc-trained DEMO-M v2, with effective q and nonvalidated p/r marker sensitivity correctly separated. DEMO-E remains bulk-only.
+7. R02-B15 partner GT and R04-H08 adversarial audit, no outreach without human direction. No G1/G3/G4 promotion; scVI student studies independent.
