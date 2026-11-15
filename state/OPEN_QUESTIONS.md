@@ -144,3 +144,14 @@ Continue independent M0–M3 research, but distinguish technically correct bulk-
 7. **C56** conditional undergraduate model demo with original method output and honest pseudo/real domain label; no G1/G3/G4 promotion by visual appearance.
 
 8. **Reviewer policy:** no automatic R04-H10. Only substantive exceptional review with a concrete trigger. No fabricated cell-state biological GT; scientific model architecture and outputs still open.
+
+## HQ020 self-run phase 1 — 2026-11-15
+
+1. Student reads original scSemiProfiler Wang/Fonseca/Ding Nat Commun 2024, especially representative vs target, VAE-GAN stages, two bulk terms, alpha=(B_target+eps)/(B_ref+eps), real-bulk paired human iMGL GSE226081 Fig6/S36; report mathematical model assumptions before rewriting biology.
+2. Student obtains ONLY official GSE151940 Bacillus subtilis microSPLiT processed TAR (~6.9 MB) and runs HQ-authored read-only archive/CSV source preflight in separate workspace. Send audit JSON and official count/barcode/OD annotations. HQ has not personally QC'd original bytes yet. No automatic sc model launch until axis/group/source verified.
+3. HQ then writes species-appropriate single-cell processed-data ingestion plus reproducible source/sample-level splits and benign scSemiProfiler author training, fake-bulk vs actual-bulk labeling, strong NMF/NNLS/prior baseline and fail gates. Student executes commands locally, sends model SHA/log/metric JSON. Do not claim generic C51 toy equals bacteria pass.
+4. Second dataset candidate B. subtilis M3-seq GSE231935 eBW2/eBW3 has 298–371 median genes/cell, multi-species mixed library and proper label filtering needed. Evaluate if first pseudo benchmark meaningful. No physically paired bulk yet.
+5. C55 RiboD 0427-3 same decompressed SHA as GSM8117639 S7; 0427-4 one malformed last cell row (1661 of 4034), low-depth median 10; not automatically valid model input. Partner FISH package still NOT_SENT. Raw/non-safe pathogen generation not rerouted via safety bypass.
+6. scSemiProfiler academic GPLv3+commercial dual license; compatibility patches on private local copy only; author old dependencies may be incompatible with RTX4060 stack. Keep user's working conda environment untouched; Codex only for local hard blocks.
+7. Original G1/G3/G4 Gates unchanged; pseudo-bulk labels are derived from sc, not external measured bulk or biological GT. Do not choose final generated-cell output semantics until real evidence.
+
