@@ -100,3 +100,11 @@ This is an append-only-style **public summary**, not a verbatim copy of confiden
 | **HQ020-MANUAL-D03** | Author scSemiProfiler VAE-GAN uses reference/target bulk ratio alpha to estimate target sc pseudobulk; euk iMGL GSE226081 includes 25 bulk/sc paired samples | Paper study should prioritize original equations 6–10, explicit ratio-model assumptions, Fig6 and Supplementary S36; compare within-dataset relative improvements and failure cases rather than raw cross-species MAE |
 | **HQ020-MANUAL-D04** | User will operate WSL; HQ authors code and decides science, Codex no longer automatic implementer, R04 on-demand | Shift to one-stage scripts and local JSON outputs provided to user, then use data-driven next step; retain public curated scientific memory and strict result provenance |
 | **HQ020-MANUAL-D05** | C55 discovered 0427-4 final-row malformed: 1661/4034 fields but gzip CRC PASS; 0427-3 decompressed SHA identical old S7 | Preserve source and SOURCE_STOP; do not silently repair/drop row and reclassify as authenticated complete matrix or novel biological replicate |
+
+## HQ020 iMGL-first decisions
+
+HQ020-IMGLFIRST-D01: Before bacterial scSemiProfiler adaptation, first execute original author code on human iMGL D2rep3 to D4rep3 and then expand towards 25 paired-sample Figure6 metrics. New adapter authored in HQ is NOT original author preprocessing; keep exact provenance.
+
+HQ020-IMGLFIRST-D02: Uploaded GSE151940 preflight: M14 exceeds expanded-size cap not corrupted; M11 DCM contains fractional values and not admitted as raw UMIs; M15 axes match but full count QC pending. Study bacteria second.
+
+HQ020-IMGLFIRST-D03: User locally executes in WSL; HQ writes code/sets science/evaluates; Codex and independent R04 only as necessary. Do not modify neuro_cota established working environment.
