@@ -155,3 +155,14 @@ Continue independent M0–M3 research, but distinguish technically correct bulk-
 6. scSemiProfiler academic GPLv3+commercial dual license; compatibility patches on private local copy only; author old dependencies may be incompatible with RTX4060 stack. Keep user's working conda environment untouched; Codex only for local hard blocks.
 7. Original G1/G3/G4 Gates unchanged; pseudo-bulk labels are derived from sc, not external measured bulk or biological GT. Do not choose final generated-cell output semantics until real evidence.
 
+## 2026-11-16 human-first reproduction
+
+1. Download specific official GSE226081/GSE226076/GSE226077 iMGL samples D2rep3 and D4rep3: two bulk RSEM TPM and two sc sparse 10X triplets. Verify per-GSM source SHA, real bulk columns and paired-condition naming.
+
+2. Run provided read-only preflight and confirm real TPM gene namespace. Author prep adapter untested on original GEO bytes; stop for header/schema discrepancy rather than silently guess.
+
+3. Build two-sample author input H5AD from reference-sc-only selected genes, seal target sc, use actual pinned author real-bulk inference. Trial with reduced epochs is smoke, full real-bulk fit on single pair is limited method reproduction, not full Figure6.
+
+4. Expand to 25 matched iMGL sc/bulk and reproduce author cohort structure, selection, annotations and metrics before cross-species comparison.
+
+5. Only then bacterial GSE151940: investigate M14 expansion cap, M11 decimal DCM not raw counts, M15 verified gene-cell orientation and integer-count/missing-data audit. G1 final/G3/G4 remain blocked.
